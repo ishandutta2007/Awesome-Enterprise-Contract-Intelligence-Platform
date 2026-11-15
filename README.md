@@ -73,9 +73,9 @@ The global Contract Lifecycle Management (CLM) and Contract Intelligence market 
 
 ## 🔓 Open-Source GitHub Projects
 
-Curated open-source software, legal reasoning systems, citation graphs, and AI contract review tooling, sorted by GitHub stars in descending order:
+Curated open-source software, legal reasoning systems, citation graphs, and AI contract review tooling, sorted by GitHub_Stars in descending order:
 
-| Project | GitHub Stars | Description |
+| Project | GitHub_Stars | Description |
 |---------|--------------|-------------|
 | **[Mike](https://github.com/open-legal-products/mike)** | [![Stars](https://img.shields.io/github/stars/open-legal-products/mike?style=social&color=white)](https://github.com/open-legal-products/mike/stargazers) | **Open-source Legal AI platform for contract generation, processing, and redlining.** Features Microsoft Word add-in integration, local offline LLM inference via Ollama, structured clause libraries, and audit-ready document exports. |
 | **[Catala](https://github.com/CatalaLang/catala)** | [![Stars](https://img.shields.io/github/stars/CatalaLang/catala?style=social&color=white)](https://github.com/CatalaLang/catala/stargazers) | **Domain-specific programming language for formalizing law and contractual specifications as code.** Developed by French research institute Inria. Serves as a deterministic, mathematically verifiable rules engine for legal logic and obligations. |
@@ -95,7 +95,7 @@ Contributions are warmly welcome! Help make enterprise contract intelligence mor
 
 1. 🍴 **Fork the repository** to your personal GitHub account.
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b feature/add-new-clm-project`).
-3. 📝 **Add or edit entries in `README.md`** following the established table schema (ensure all pricing, company size metrics, and star badges follow guidelines).
+3. 📝 **Add or edit entries in `README.md`** following the established table schema (ensure all pricing, company size metrics, and Stars_Badges follow guidelines).
 4. 🚀 **Commit your updates** with a clear message (`git commit -m "Add new open-source contract analysis tool"`).
 5. 🔀 **Submit a Pull Request** with a brief summary of additions or updates.
 
