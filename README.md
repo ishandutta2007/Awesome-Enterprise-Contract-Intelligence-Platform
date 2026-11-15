@@ -1,6 +1,6 @@
 # Awesome-Enterprise-Contract-Intelligence-Platform
 
-# Top Enterprise Contract Intelligence Platform Ecosystem
+## Top Enterprise Contract Intelligence Platform Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on AI-Powered Clause Extraction, Obligation Tracking & Self-Hosted Contract Reasoning*  
