@@ -1,31 +1,60 @@
-# Awesome-Enterprise-Contract-Intelligence-Platform
+<div align="center">
 
-## Top Enterprise Contract Intelligence Platform Ecosystem
+<a href="https://github.com/ishandutta2007/Awesome-Enterprise-Contract-Intelligence-Platform">
+  <img src="assets/banner.svg" alt="Awesome Enterprise Contract Intelligence Platform" width="100%" />
+</a>
 
-**Curated List of SaaS Platforms & Open-Source GitHub Projects**  
-*Focused on AI-Powered Clause Extraction, Obligation Tracking & Self-Hosted Contract Reasoning*  
-**Last updated: March 2026**
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Contract-Intelligence-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Enterprise-Contract-Intelligence-Platform?style=flat-square&logo=github&color=gold" alt="Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Contract-Intelligence-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Enterprise-Contract-Intelligence-Platform?style=flat-square&logo=github&color=blue" alt="Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Contract-Intelligence-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Enterprise-Contract-Intelligence-Platform?style=flat-square&color=green" alt="Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Enterprise-Contract-Intelligence-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Enterprise Contract Intelligence**. These tools go beyond contract storage—using AI and NLP to extract obligations, flag risks, and surface portfolio-wide insights from executed agreements, helping legal and procurement teams understand what their contracts actually commit them to.
+# ⚖️ Awesome Enterprise Contract Intelligence Platform 🧠
 
-**Examples** include Icertis, SirionLabs, Ironclad, Evisort (Workday), DocuSign CLM, Agiloft, Conga, ContractPodAi, CobbleStone, Luminance, and open-source alternatives like draftLegal, Aakd, and OpenCLM (the category leaders).
+### 🚀 Top Enterprise Contract Intelligence Platform & CLM Ecosystem
+**Curated Index of Enterprise SaaS Platforms & Self-Hosted Open-Source GitHub Projects**  
+*Focused on AI-Powered Clause Extraction, Post-Signature Obligation Tracking, Citation Graphs & Legal Reasoning*  
+📅 **Last updated: March 2026**
 
-**Open-source emphasis**: This section highlights every major active project for self-hosted contract intelligence, open-source AI-assisted extraction, and community-driven CLM platforms—ideal for organizations seeking data sovereignty and avoiding six-figure enterprise licensing. The open-source landscape has matured to genuine viability: **draftLegal** provides AI-native contract reasoning with portfolio-wide hybrid retrieval , **OpenCLM** delivers full lifecycle fundamentals free under AGPL , and **Aakd** focuses on source-linked obligation tracking with human review .
+</div>
 
-Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
+---
 
-## Table of Contents
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📌 Executive Summary & Architecture
 
-## Sector Overview & Market Dynamics
+This repository tracks notable **enterprise SaaS platforms** and **open-source legal AI projects** for **Enterprise Contract Intelligence** and **Contract Lifecycle Management (CLM)**. These platforms advance beyond basic digital document repositories—leveraging Large Language Models (LLMs), Natural Language Processing (NLP), and vector-graph retrieval to extract contractual obligations, flag liabilities and non-standard risks, and surface portfolio-wide commitments from executed agreements.
+
+- 🏢 **Enterprise Leaders**: Icertis, SirionLabs, Ironclad, Workday Contract Intelligence (Evisort), DocuSign CLM, Agiloft, Conga, ContractPodAi, Luminance, and CobbleStone.
+- 🔓 **Open-Source Champions**: Mike, Catala, OpenContracts, CUAD, LegalQuants AI, ally-legal-assistant, OpenCapture, draftLegal, and Aakd.
+
+> 💡 **Data Sovereignty & Self-Hosting**: Open-source contract intelligence provides verifiable audit trails, local model inference (via Ollama/vLLM), and portfolio citation graphs without 6-figure SaaS licensing commitments.
+
+---
+
+## 📑 Table of Contents
+
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS/Hosted Enterprise Platforms](#-saashosted-enterprise-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
 
 The global Contract Lifecycle Management (CLM) and Contract Intelligence market is valued between **$2.0 billion and $3.8 billion** (scaling at a steady 11%–13% CAGR), driven by enterprise migration from static storage to AI-driven clause extraction, risk scoring, and post-signature obligation tracking. The market is **moderately fragmented across 150+ point solutions and specialized AI wrappers at the mid-market level, but increasingly concentrated at the top tier**, where enterprise buyers favor comprehensive, multi-billion-dollar platform ecosystems (such as Workday, DocuSign, and Icertis) that natively integrate with core ERP and CRM systems.
 
-## SaaS/Hosted Platforms
+---
+
+## 🏢 SaaS/Hosted Enterprise Platforms
 
 | Product | Company Size (Valuation / Revenue) | Pricing (Starting) | Free Tier / Trial Limits | Description |
 |---------|------------------------------------|-------------------|--------------------------|-------------|
@@ -40,40 +69,65 @@ The global Contract Lifecycle Management (CLM) and Contract Intelligence market 
 | **[Luminance](https://www.luminance.com/)** | **~$150M–$200M est. valuation** (Series C) / **~$30M–$60M ARR** | ~$43,000–$60,000/year (quote-based; priced by document volume processed and module scope) | No free tier; no free trial (0 days; guided enterprise demo and pilot order form agreement) | **Legal-grade AI that surfaces portfolio-wide trends in payment terms, liability exposure, and commercial commitments.** Source-backed answers with clause-level citations; features specialized proprietary legal LLMs (Luna). |
 | **[CobbleStone](https://www.cobblestonesoftware.com/)** | **~$25M–$30M annual revenue** (Bootstrapped / Privately held) | ~$59/user/month (Express entry-level tier; enterprise editions quote-based with core licensing + user packs) | 30-day free trial available (hands-on trial period with configuration support) | **CLM with VISDOM AI for clause extraction, risk flagging, and post-execution compliance tracking.** Scored 3.75 in Full Life Cycle and 3.69 in Postsignature. |
 
-## Open-Source GitHub Projects
+---
 
-| Project | Star Badge | Description |
-|---------|------------|-------------|
-| **[draftLegal](https://github.com/AniketTati/draft-legal)** | [![Stars](https://img.shields.io/github/stars/AniketTati/draft-legal?style=social&color=white)](https://github.com/AniketTati/draft-legal/stargazers) | **The most ambitious open-source contract intelligence platform—positioned as Ironclad + Harvey combined.** Self-hosted, AI-native CLM with **~30 agent tools** over your contracts: search, cite, compare, draft, redline, route approvals—every write proposed on a confirm card first, most undoable . **Portfolio intelligence via hybrid retrieval (pgvector + Elasticsearch + RRF fusion)** lets the agent answer questions across your whole contract history—exposure, counterparties, auto-renewals, notice deadlines—with citations to the clause and section. **Bring-your-own model** (Anthropic, OpenAI, Gemini)—no vendor lock-in. `docker compose up` deployment. **Best for teams wanting Ironclad-class execution plus Harvey-class reasoning without six-figure SaaS fees.** |
-| **[OpenCLM](https://openclm.ai/)** | — | **The most complete open-source CLM with full lifecycle fundamentals free forever.** **AGPL v3, self-hosted—no per-user fees, full data ownership**. Covers searchable repository, template and clause library, **multi-stage sequential and parallel approval workflows routed by value, type, or department**, built-in e-signatures, and renewal/obligation tracking with automated reminders . **Free plan includes 1 user with unlimited contracts and 5 e-signatures/month**; Professional from $49/month; Teams from $649/month . **Best for teams wanting Ironclad-class lifecycle fundamentals without licensing fees**—the trade-off is self-hosting and operational responsibility. |
-| **[Aakd](https://github.com/aaked-app/aakd)** | [![Stars](https://img.shields.io/github/stars/aaked-app/aakd?style=social&color=white)](https://github.com/aaked-app/aakd/stargazers) | **Focused open-source CLM for source-linked post-signature operations.** AGPL-3.0. Upload executed PDF/DOCX, review **extracted fields, obligations, and exact source citations with page-level evidence**, correct anything wrong or missing, assign owners and due dates, track renewals, approvals, and completion evidence . **AI is optional**—assisted extraction remains reviewable and is never the canonical source of contract truth. Docker Compose with PostgreSQL, Redis, MinIO, and Mailpit. **Early-stage release**—authoring, templates, and autonomous agents are explicitly out of scope for the first version . **Best for teams wanting a narrow, auditable post-signature obligation tracker** rather than a full lifecycle suite. |
-| **[OpenContracts](https://github.com/Open-Source-Legal/OpenContracts)** | [![Stars](https://img.shields.io/github/stars/Open-Source-Legal/OpenContracts?style=social&color=white)](https://github.com/Open-Source-Legal/OpenContracts/stargazers) | **Open-source citation graph substrate for legal documents—not a traditional CLM.** **MIT licensed** (fully permissive). Documents are nodes, citations are edges, annotations are the layer humans and agents build the graph from . **Corpuses with version control** (fork, restore, full history), custom label schemas, and **AI agents that reason over curated citation data** rather than hallucinating . **MCP server** exposes the corpus to Claude, Cursor, and any MCP-compatible tool . **Best for legal research, due diligence, and teams building custom contract intelligence pipelines** where the citation graph matters more than lifecycle workflows . |
+## 🔓 Open-Source GitHub Projects
 
-### Additional Strong Open-Source Options
+Curated open-source software, legal reasoning systems, citation graphs, and AI contract review tooling, sorted by GitHub stars in descending order:
 
-| Project | Star Badge | Description |
-|---------|------------|-------------|
-| **[Catala](https://github.com/CatalaLang/catala)** | — | **Programming language for expressing law as code (Apache 2.0).** Developed by French research institute Inria. Intended as an alternative to proprietary rules engines for formalizing legal logic . **Best for teams wanting to encode contract logic as executable rules** rather than extract text with AI . |
-| **[Open-Capture](https://github.com/Edissyum/opencapture)** | — | **Fully open-source document capture and reading solution (GPL v3).** French company Edissyum. Handles document ingestion and OCR—the upstream step before contract analysis . **Best for teams needing a self-hosted document intake pipeline** feeding into a custom intelligence layer . |
-
-**Frameworks for building custom systems**: Choose **draftLegal** for AI-native contract reasoning and portfolio-wide cited retrieval , **OpenCLM** for full lifecycle fundamentals with approval workflows and e-signatures free , or **Aakd** for narrow, auditable post-signature obligation tracking —all without six-figure enterprise licensing. For teams needing a citation graph rather than a CLM workflow, **OpenContracts** provides a permissively-licensed substrate for building custom contract intelligence .
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Contract intelligence platforms handle legally sensitive documents and privileged communications; enforce strict access controls, audit logging, and compliance with applicable data protection regulations. **AI-generated extractions and risk scores must be reviewed by qualified legal professionals before reliance.**
-- **Enterprise CLM pricing is genuinely six-figure territory.** Mid-market platforms run **$15,000–$100,000/year**, while enterprise deployments reach **hundreds of thousands**, with Icertis typically at the top of the range . Implementations commonly take **three to six months**, and the largest can take longer . **Open-source contract intelligence has matured to genuine viability, but the projects split into distinct approaches.** **draftLegal** is the most ambitious—combining Ironclad-style execution with Harvey-style reasoning and portfolio-wide cited retrieval, but it is a newer project requiring self-hosting . **OpenCLM** provides the most complete lifecycle fundamentals (approvals, e-signatures, renewals) under AGPL v3, with a free tier for 1 user and paid tiers for teams . **Aakd** is explicitly an **early-stage release** focused narrowly on post-signature obligations with human review—not a full CLM . **OpenContracts** is **MIT licensed** but is a citation graph substrate, not a CLM—best for custom intelligence pipelines . **Validate data residency requirements, AI review workflows, and operational capacity** before committing to self-hosting.
+| Project | GitHub Stars | Description |
+|---------|--------------|-------------|
+| **[Mike](https://github.com/open-legal-products/mike)** | [![Stars](https://img.shields.io/github/stars/open-legal-products/mike?style=social&color=white)](https://github.com/open-legal-products/mike/stargazers) | **Open-source Legal AI platform for contract generation, processing, and redlining.** Features Microsoft Word add-in integration, local offline LLM inference via Ollama, structured clause libraries, and audit-ready document exports. |
+| **[Catala](https://github.com/CatalaLang/catala)** | [![Stars](https://img.shields.io/github/stars/CatalaLang/catala?style=social&color=white)](https://github.com/CatalaLang/catala/stargazers) | **Domain-specific programming language for formalizing law and contractual specifications as code.** Developed by French research institute Inria. Serves as a deterministic, mathematically verifiable rules engine for legal logic and obligations. |
+| **[OpenContracts](https://github.com/Open-Source-Legal/OpenContracts)** | [![Stars](https://img.shields.io/github/stars/Open-Source-Legal/OpenContracts?style=social&color=white)](https://github.com/Open-Source-Legal/OpenContracts/stargazers) | **Open-source citation graph substrate and document intelligence platform (MIT licensed).** Represents contracts as nodes, citations as edges, and provisions as human/agent annotations. Includes version-controlled corpuses and a native Model Context Protocol (MCP) server for Claude and Cursor. |
+| **[CUAD (The Atticus Project)](https://github.com/The-Atticus-Project/cuad)** | [![Stars](https://img.shields.io/github/stars/The-Atticus-Project/cuad?style=social&color=white)](https://github.com/The-Atticus-Project/cuad/stargazers) | **Curated benchmark dataset and NLP model architecture for contract understanding.** Standardized over 510+ commercial legal agreements and 13,000+ annotations across 41 actionable clause risk categories for fine-tuning extraction pipelines. |
+| **[LegalQuants AI](https://github.com/LegalQuants/lq-ai)** | [![Stars](https://img.shields.io/github/stars/LegalQuants/lq-ai?style=social&color=white)](https://github.com/LegalQuants/lq-ai/stargazers) | **Self-hosted Legal AI platform for contract analysis and private document review.** Features privacy-preserving anonymization layers, codified legal playbooks, multi-document tabular cross-analysis, and support for air-gapped local LLMs. |
+| **[Ally Legal Assistant](https://github.com/Azure-Samples/ally-legal-assistant)** | [![Stars](https://img.shields.io/github/stars/Azure-Samples/ally-legal-assistant?style=social&color=white)](https://github.com/Azure-Samples/ally-legal-assistant/stargazers) | **Enterprise-grade contract review and legal assistant plugin for Microsoft Word.** Provides clause suggestion engines, contextual contract Q&A, and redline diffing backed by Azure OpenAI and enterprise security standards. |
+| **[Open-Capture](https://github.com/Edissyum/opencapture)** | [![Stars](https://img.shields.io/github/stars/Edissyum/opencapture?style=social&color=white)](https://github.com/Edissyum/opencapture/stargazers) | **Fully open-source document ingestion and capture solution (GPL v3).** Specialized intake pipeline for high-volume contract OCR, document classification, and metadata extraction upstream of legal intelligence engines. |
+| **[draftLegal](https://github.com/AniketTati/draft-legal)** | [![Stars](https://img.shields.io/github/stars/AniketTati/draft-legal?style=social&color=white)](https://github.com/AniketTati/draft-legal/stargazers) | **AI-native open-source contract reasoning CLM platform.** Features ~30 legal agent tools, portfolio-wide hybrid retrieval (pgvector + Elasticsearch + RRF fusion), citation-grounded question answering, and bring-your-own-model deployment via Docker Compose. |
+| **[Aakd](https://github.com/aaked-app/aakd)** | [![Stars](https://img.shields.io/github/stars/aaked-app/aakd?style=social&color=white)](https://github.com/aaked-app/aakd/stargazers) | **Focused open-source post-signature obligation and renewal tracker (AGPL-3.0).** Parses executed agreements into reviewable obligation cards with exact page-level citations, human-in-the-loop verification, and automated renewal deadline reminders. |
 
 ---
 
-**Made for legal ops teams, contract analysts, and developers building contract intelligence infrastructure.**  
-Let's make enterprise contract intelligence more open, explainable, and auditable.
+## 🤝 How to Contribute
+
+Contributions are warmly welcome! Help make enterprise contract intelligence more open, auditable, and accessible:
+
+1. 🍴 **Fork the repository** to your personal GitHub account.
+2. 🌿 **Create a descriptive feature branch** (`git checkout -b feature/add-new-clm-project`).
+3. 📝 **Add or edit entries in `README.md`** following the established table schema (ensure all pricing, company size metrics, and star badges follow guidelines).
+4. 🚀 **Commit your updates** with a clear message (`git commit -m "Add new open-source contract analysis tool"`).
+5. 🔀 **Submit a Pull Request** with a brief summary of additions or updates.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated ecosystem list helpful for your legal engineering work, research, or enterprise tooling:
+
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork it** to customize your internal legal tech evaluations.
+- 📣 **Share it** with your legal ops, procurement, and engineering teams.
+- ☕ **Buy me a coffee & support ongoing curation**: Consider sponsoring the creator at the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007) 🙏
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Enterprise-Contract-Intelligence-Platform&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Enterprise-Contract-Intelligence-Platform&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated index** — not exhaustive and not an official corporate endorsement.
+- Contract intelligence platforms handle legally binding agreements, privileged communications, and sensitive commercial data; always enforce strict role-based access control (RBAC), end-to-end encryption, and regulatory compliance (GDPR, HIPAA, SOC 2).
+- **AI-generated extractions, obligation summaries, and risk assessments should always be validated by qualified legal counsel.**
+
+---
+
+<div align="center">
+  <b>Built for legal ops teams, contract analysts, and engineers building the next generation of contract intelligence infrastructure.</b>  
+  <br />
+  <sub>Maintained with ❤️ by <a href="https://github.com/ishandutta2007">Ishan Dutta</a></sub>
+</div>
